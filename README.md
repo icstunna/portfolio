@@ -10,6 +10,8 @@
 <img src="http://i.imgur.com/IXGJaax.png" />
 
 #### Mobile Version
+<p align="center">
 <img src="http://i.imgur.com/I3iasnY.png" width="400"/>
 <img src="http://i.imgur.com/lAkBqac.png" width="400"/>
 <img src="http://i.imgur.com/APav5KO.png" width="400"/>
+</p>
