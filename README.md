@@ -9,7 +9,7 @@
 <img src="http://i.imgur.com/WE1Doqn.jpg" />
 <img src="http://i.imgur.com/IXGJaax.png" />
 
-<p align="center" style="font-size:18px"> Mobile Version </p>
+<h2 align="center" style="font-size:100px"> Mobile Version </h2>
 
 <p align="center">
   <img src="http://i.imgur.com/I3iasnY.png" width="400"/>
