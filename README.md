@@ -10,7 +10,5 @@
 ![alt tag](http://i.imgur.com/IXGJaax.png)
 
 #### Mobile Version
-<img src="http://i.imgur.com/I3iasnY.png" width="100"/>
-![alt tag](http://i.imgur.com/I3iasnY.png)
-![alt tag](http://i.imgur.com/lAkBqac.png)
-![alt tag](http://i.imgur.com/APav5KO.png)
+<img src="http://i.imgur.com/I3iasnY.png" width="400"/>
+
