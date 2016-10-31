@@ -38,3 +38,13 @@
 <p align="center">
   <img src="http://i.imgur.com/21DdXk2.png" width="400"/>
 </p>
+
+<h2> Movie Me </h2>
+
+<h3 align="center"> Home Page </h3>
+<h4 align="center"> http://young-springs-8655.herokuapp.com/ </h4> 
+<img src="http://i.imgur.com/EUEaM9j.png" />
+
+<h3 align="center"> Movie Page </h3>
+<h4 align="center"> http://young-springs-8655.herokuapp.com/movies/3 </h4> 
+<img src="http://i.imgur.com/0piQzfO.png" />
